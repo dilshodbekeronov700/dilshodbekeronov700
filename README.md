@@ -1,16 +1,27 @@
-## Hi there 👋
+# Eronov Dilshodbek
 
-<!--
-**dilshodbekeronov700/dilshodbekeronov700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **The Endurance Industrial Technologies** (Tashkent, Uzbekistan), an Industry 4.0 company that digitalizes and automates manufacturing and industrial enterprises.
 
-Here are some ideas to get you started:
+3 years building industrial software, from shop-floor hardware integration to production planning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Products & projects
+
+**Product marking & traceability (Asl Belgisi / Xtrace)**
+- **Ocard Industrial Line.** Desktop app for production lines: scans and decodes product codes on the conveyor, box → pallet aggregation, operator HMI and a Telegram bot for reports.
+- **Ocard Desktop.** Electron app for marking operations: inventory, sales, e-invoices and aggregation, with built-in licensing.
+- **Endurance Aggregation Engine.** Utilisation, multi-level aggregation and hierarchy verification through the national marking API.
+
+**Industrial planning & reliability**
+- **C-MIND.** Linear Programming–based production planning for oil refineries, plus Risk-Based Inspection (RBI). Validated on real plant data.
+
+**Operations**
+- **FIFO WMS.** Warehouse management system running in production.
+
+**AI**
+- **Hydrolife Digital.** Telegram Mini App with an admin panel and a voice AI assistant (Uzbek STT/TTS + Claude).
+- **Image Analysis.** Computer vision prototype.
+
+### Stack
+Python · TypeScript · Electron · PyQt · Linear Programming · Supabase · industrial hardware integration (scanners, conveyors)
+
+📍 Tashkent, Uzbekistan · ✉️ enduranceindustrial@outlook.com
